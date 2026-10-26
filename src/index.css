@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme{--color-brand:#1f6b55;--color-brand-dark:#154a3b;--color-brand-soft:#e9f3ef;--color-accent:#f26a1b;--font-display:Georgia,'Times New Roman',serif;}
+html{scroll-behavior:smooth}body{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;color:#1c2b26;background:#fff}
+:focus-visible{outline:3px solid var(--color-accent);outline-offset:2px}
